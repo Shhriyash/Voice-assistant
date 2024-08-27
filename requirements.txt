@@ -1,0 +1,5 @@
+groq
+pyttsx3
+SpeechRecognition
+pyaudio
+webrtcvad
